@@ -1,4 +1,6 @@
-# Hay
+---
+title: "Hay"
+---
 
 Ich bin vollkommener Ausdruck der Liebe und Schönheit des Lebens.
 
