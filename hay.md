@@ -44,6 +44,16 @@ Wahrscheinlicher Grund: Wut an der Basis deines Verstehens. Frustration über di
 
 Neues Gedankenmuster: Ich schreite vertrauensvoll und leicht voran. Ich vertraue und fließe mit dem Prozess des Lebens.
 
+# Warzen
+
+Wahrscheinlicher Grund: Kleine Ausdrucksformen des Hasses, Glaube an Hässlichkeit.
+
+Neues Gedankenmuster: Ich bin vollkommener Ausdruck der Liebe und Schöhnheit des Lebens.
+
+# Zähne
+
+# (Kalte) Hände
+
 # Anderes
 
 Ich bin vollkommener Ausdruck der Liebe und Schönheit des Lebens.
