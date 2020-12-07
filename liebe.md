@@ -4,7 +4,7 @@ title: "Liebe"
 
 Tief in der Mitte meines Wesens sprudelt ein unendlicher Quell der Liebe.
 
-Ich erlaub nun, dass diese Liebe zur Oberfläche emporwallt. Sie erfüllt mein Herz, meinen Körper und mein Denken, mein Bewusstsein und mein innerstes Sein, und sie strahlt von mir aus in alle Richtungen, um mit vermehrter Kraft zurückzukehren.
+Ich erlaube nun, dass diese Liebe zur Oberfläche emporwallt. Sie erfüllt mein Herz, meinen Körper und mein Denken, mein Bewusstsein und mein innerstes Sein, und sie strahlt von mir aus in alle Richtungen, um mit vermehrter Kraft zurückzukehren.
 
 Je mehr Liebe ich übe und gebe, desto mehr habe ich zu geben; der Nachschub ist grenzenlos. Wenn ich Liebe übe, fühle ich mich wohl; es ist ein Ausdruck meiner inneren Freude.
 
