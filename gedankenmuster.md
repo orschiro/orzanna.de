@@ -2,14 +2,16 @@
 title: "Gedankenmuster"
 ---
 
-Ich bin frei.
+Ich bin Freiheit.
 
-Ich liebe. 
+Ich bin Liebe.
 
-Ich vergebe.
+Ich bin Vergebung.
 
-Ich verzeihe.
+Ich bin Verzeihung.
 
-Ich vetraue.
+Ich bin Vertrauen.
 
-Ich gebe.
+Ich bin Gabe.
+
+Ich bin Freude.
