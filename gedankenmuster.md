@@ -8,4 +8,6 @@ Ich bin Vergebung.\
 Ich bin Verzeihung.\
 Ich bin Vertrauen.\
 Ich bin Gabe.\
-Ich bin Freude.
+Ich bin Freude.\
+Ich bin Güte.\
+Ich bin Wärme.\
