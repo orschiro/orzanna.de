@@ -11,3 +11,4 @@ Ich bin Gabe.\
 Ich bin Freude.\
 Ich bin Güte.\
 Ich bin Wärme.\
+Ich bin Entspannung.\
