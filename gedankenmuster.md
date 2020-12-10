@@ -9,8 +9,10 @@ Ich bin Freude.\
 Ich bin Frohsinn.\
 Ich bin Gabe.\
 Ich bin Güte.\
+Ich bin Leidenschaft.\
 Ich bin Liebe.\
 Ich bin Vergebung.\
 Ich bin Verzeihung.\
 Ich bin Vertrauen.\
 Ich bin Wärme.\
+Ich bin Zuversicht.\
