@@ -8,6 +8,7 @@ Ich bin Freiheit.\
 Ich bin Freude.\
 Ich bin Frohsinn.\
 Ich bin Gabe.\
+Ich bin Glaube.\
 Ich bin Güte.\
 Ich bin Leidenschaft.\
 Ich bin Liebe.\
