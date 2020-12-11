@@ -2,18 +2,19 @@
 title: "Gedankenmuster"
 ---
 
-Ich bin Akzeptanz.\
-Ich bin Entspannung.\
-Ich bin Freiheit.\
-Ich bin Freude.\
-Ich bin Frohsinn.\
-Ich bin Gabe.\
-Ich bin Glaube.\
-Ich bin Güte.\
-Ich bin Leidenschaft.\
-Ich bin Liebe.\
-Ich bin Vergebung.\
-Ich bin Verzeihung.\
-Ich bin Vertrauen.\
-Ich bin Wärme.\
-Ich bin Zuversicht.\
+Ich bin voller Akzeptanz.\
+Ich bin voller Entspannung.\
+Ich bin voller Freiheit.\
+Ich bin voller Freude.\
+Ich bin voller Frohsinn.\
+Ich bin voller Gabe.\
+Ich bin voller Glaube.\
+Ich bin voller Güte.\
+Ich bin voller Hoffnung.\
+Ich bin voller Leidenschaft.\
+Ich bin voller Liebe.\
+Ich bin voller Vergebung.\
+Ich bin voller Verzeihung.\
+Ich bin voller Vertrauen.\
+Ich bin voller Wärme.\
+Ich bin voller Zuversicht.\
