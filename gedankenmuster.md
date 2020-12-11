@@ -13,8 +13,10 @@ Ich bin voller Güte.\
 Ich bin voller Hoffnung.\
 Ich bin voller Leidenschaft.\
 Ich bin voller Liebe.\
+Ich bin voller Ruhe.\
 Ich bin voller Vergebung.\
 Ich bin voller Verzeihung.\
 Ich bin voller Vertrauen.\
 Ich bin voller Wärme.\
+Ich bin voller Wunder.\
 Ich bin voller Zuversicht.\
