@@ -7,9 +7,11 @@ Ich bin voller Entspannung.\
 Ich bin voller Freiheit.\
 Ich bin voller Freude.\
 Ich bin voller Frohsinn.\
+Ich bin voller Fürsorge.\
 Ich bin voller Gabe.\
 Ich bin voller Glaube.\
 Ich bin voller Güte.\
+Ich bin voller Hingabe.\
 Ich bin voller Hoffnung.\
 Ich bin voller Leidenschaft.\
 Ich bin voller Liebe.\
