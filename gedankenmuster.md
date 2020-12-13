@@ -3,7 +3,6 @@ title: "Gedankenmuster"
 ---
 
 Ich bin voller Akzeptanz.\
-Ich bin voller Freiheit.\
 Ich bin voller Freude.\
 Ich bin voller Frohsinn.\
 Ich bin voller Fürsorge.\
