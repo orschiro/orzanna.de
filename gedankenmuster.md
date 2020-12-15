@@ -6,6 +6,7 @@ Ich bin voller Akzeptanz.\
 Ich bin voller Freude.\
 Ich bin voller Frohsinn.\
 Ich bin voller Fürsorge.\
+Ich bin voller Geduld.\
 Ich bin voller Glaube.\
 Ich bin voller Güte.\
 Ich bin voller Hingabe.\
