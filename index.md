@@ -2,6 +2,7 @@
 title: "Or Schiro"
 ---
 
-## 404 
+# Remember // Denk dran 
 
-Not sure what you were looking for. Try a search engine ;-)
+Every moment is a present.\
+Jeder Moment ist ein Geschenk.
