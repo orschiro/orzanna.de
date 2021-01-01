@@ -2,4 +2,4 @@
 title: "Or Schiro"
 ---
 
-[Phase](phase)
+[Phase](phase), [Moment](moment), [Tag](tag)
