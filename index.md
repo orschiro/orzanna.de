@@ -1,6 +1,7 @@
 ---
-title: "Or Schiro"
+title: "Or Schiro || Robert Orzanna"
 subtitle: "Current Projects || Aktuelle Projekte"
+description: "Short summary about current projects by Or Schiro (Robert Orzanna) || Simple Webseite aktueller Projekte von Or Schiro (Robert Orzanna)"
 ---
 
 # Alt + Q Browser Extension
