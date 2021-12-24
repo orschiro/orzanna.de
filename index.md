@@ -26,6 +26,7 @@ Community Forum für Fragen rund um Sheetgo. [Mehr erfahren...](https://www.shee
 ![Fig 3: Screenshot of the community website](https://imgur.com/EuSKm0yl.png)
 
 ---
+**Footnotes:**
 
 \* Robert Orzanna
 
