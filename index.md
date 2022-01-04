@@ -1,6 +1,6 @@
 ---
-title: "Or Schiro*"
-subtitle: "Current Projects**"
+title: "Or Schiro"
+subtitle: "Current Projects"
 description: "Current projects by Or Schiro (Robert Orzanna). Aktuelle Projekte von Or Schiro (Robert Orzanna)."
 ---
 
@@ -24,10 +24,3 @@ Sheetgo Community Help & Support. [Read more...](https://www.sheetgo-community.c
 Community Forum für Fragen rund um Sheetgo. [Mehr erfahren...](https://www.sheetgo-community.com/)
 
 ![Fig 3: Screenshot of the community website](https://imgur.com/EuSKm0yl.png)
-
----
-**Footnotes:**
-
-\* Robert Orzanna
-
-** Aktuelle Projekte
