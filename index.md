@@ -1,7 +1,7 @@
 ---
 title: "Or Schiro"
-subtitle: "Current Projects"
-description: "Current projects by Or Schiro (Robert Orzanna). Aktuelle Projekte von Or Schiro (Robert Orzanna)."
+subtitle: "Current projects by Robert Orzanna"
+description: "Current projects Robert Orzanna. Aktuelle Projekte von Robert Orzanna."
 ---
 
 # Alt + Q Browser Extension
@@ -19,8 +19,13 @@ Schick dem Bot eine Nachricht und er übersetzt sie dir auf Polnisch. [Mehr erfa
 ![Fig 2: Screenshot of the bot interface on Telegram](https://imgur.com/Kj29C51.png)
 
 # Sheetgo Community
-Sheetgo Community Help & Support. [Read more...](https://www.sheetgo-community.com/)
+Sheetgo Community Help & Support. [Read more...](https:/community.sheetgo.com)
 
-Community Forum für Fragen rund um Sheetgo. [Mehr erfahren...](https://www.sheetgo-community.com/)
+Community Forum für Fragen rund um Sheetgo. [Mehr erfahren...](https://community.sheetgo.com)
 
 ![Fig 3: Screenshot of the community website](https://imgur.com/EuSKm0yl.png)
+
+# Schulzeitspiele
+Ein Podcast über Videospiele der späten 90er und frühen 2000er. [Jetzt reinhören...](https://schulzeitspiele.de)
+
+![Fig 4: Schulzeitspiele Podcast](https://www.wisst-ihr-noch.de/wp-content/uploads/2021/05/b-die-schlechtesten-videospiele-aller-zeiten-scaled.jpg)
