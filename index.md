@@ -1,5 +1,5 @@
 ---
-title: "Or Schiro"
+title: "Or"
 subtitle: "Current projects by Robert Orzanna"
 description: "Current projects Robert Orzanna. Aktuelle Projekte von Robert Orzanna."
 ---
