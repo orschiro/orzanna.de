@@ -2,6 +2,11 @@
 title: "Or"
 subtitle: "by Robert Orzanna"
 description: "Current projects Robert Orzanna. Aktuelle Projekte von Robert Orzanna."
+header-includes:
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
 ---
 
 # Alt + Q Browser Extension
