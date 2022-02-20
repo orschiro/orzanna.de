@@ -33,4 +33,4 @@ Community Forum für Fragen rund um Sheetgo. [Frage stellen...](https://communit
 # Schulzeitspiele
 Ein Podcast über Videospiele der späten 90er und frühen 2000er. [Jetzt reinhören...](https://schulzeitspiele.de)
 
-![](https://www.wisst-ihr-noch.de/wp-content/uploads/2021/05/b-die-schlechtesten-videospiele-aller-zeiten-scaled.jpg)
+![](https://schulzeitspiele.de/22104647-1645342297091-12fbda3b69e64.jpeg)
