@@ -24,7 +24,7 @@ Schick dem Bot eine Nachricht und er übersetzt sie dir auf Polnisch. [Übersetz
 ![](https://imgur.com/Kj29C51.png)
 
 # Sheetgo Community
-Sheetgo Community Help & Support. [Ask a question...](https:/community.sheetgo.com)
+Sheetgo Community Help & Support. [Ask a question...](https://community.sheetgo.com)
 
 Community Forum für Fragen rund um Sheetgo. [Frage stellen...](https://community.sheetgo.com)
 
