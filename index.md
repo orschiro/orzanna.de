@@ -11,4 +11,4 @@ Wenn ich mir die folgenden Sätze verinnerliche, dann ist mein Leben schöner:
 
 - Alles ist nur eine Phase und vergeht.
 - Die Dinge immer mit der Ruhe tun.
-- Liebe viele kleine Schritte als nur ein großer.
+- Lieber viele kleine Schritte als nur ein großer.
