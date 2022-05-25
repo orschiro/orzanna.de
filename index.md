@@ -7,6 +7,12 @@ header-includes:
     <link rel="manifest" href="/site.webmanifest">
 ---
 
+<style>
+    li {
+    line-height: 2;
+    }
+</style>
+
 - Can help you [navigate](https://chrome.google.com/webstore/detail/switch-between-your-two-m/odhjcgnlbagjllfbilicalpigimhdcll) between your Google Chrome tabs more productively.
 - Can translate Telegram messages into [Polish](https://t.me/TranslatePolishBot) or [English](https://t.me/Translate_To_English_Bot). Currently supports Bulgarian, Chinese, Czech, Danish, Dutch, Estonian, Finnish, French, German, Greek, Indonesian, Italian, Japanese, Latvian, Lithuanian, Portuguese, Romanian, Russian, Slovak, Slovenian, Spanish, Swedish, Turkish.
 - Can make Telegram [remind you](https://t.me/NotifyBackBot) about things you don't want to forget.
