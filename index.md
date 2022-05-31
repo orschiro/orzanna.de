@@ -9,7 +9,7 @@ header-includes:
 
 <style>
     li {
-    line-height: 2;
+    padding: 10px;
     }
 </style>
 
