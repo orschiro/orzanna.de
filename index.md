@@ -13,7 +13,7 @@ header-includes:
     }
 </style>
 
-- Tries to be embody love, patience, understanding, calm and kindness.
+- Tries to embody love, patience, understanding, calm and kindness (miłość, cierpliwość, zrozumienie, spokój i życzliwość).
 - Can help you [navigate](https://chrome.google.com/webstore/detail/switch-between-your-two-m/odhjcgnlbagjllfbilicalpigimhdcll) between your Google Chrome tabs more productively.
 - Can help you [master spreadsheets](https://community.sheetgo.com).
 - Can help you get long-lasting [underwear](https://justunderwear.de) fast and frictionless.
