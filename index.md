@@ -19,3 +19,4 @@ header-includes:
 - Can help you get long-lasting [underwear](https://justunderwear.de) fast and frictionless (see [HOM](https://hom.kaufen)).
 - Can help you foster [sustainable consumption](https://scorai.net) around the world.
 - Can help you understand [degrowth](https://degrowthaudiobook.wordpress.com/).
+- Can entertain you with [conversations](https://philundrob.de) between friends.
