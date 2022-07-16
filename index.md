@@ -14,9 +14,9 @@ header-includes:
 </style>
 
 - Tries to embody love, patience, understanding, calm, kindness and letting go (miłość, cierpliwość, zrozumienie, spokój, życzliwość i odpuszczanie).
-- Can help you [navigate](https://chrome.google.com/webstore/detail/switch-between-your-two-m/odhjcgnlbagjllfbilicalpigimhdcll) between your Google Chrome tabs more productively.
-- Can help you [master spreadsheets](https://community.sheetgo.com).
-- Unterstützt dich beim Erwerb hochwertiger [Unterwäsche](https://justunderwear.de) von Qualitätsmarken (z.B. [HOM](https://hom.kaufen)).
+- Can help you switch quickly between your [Google Chrome](https://chrome.google.com/webstore/detail/switch-between-your-two-m/odhjcgnlbagjllfbilicalpigimhdcll) or [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/switch-between-your-two-m/ldeohgefdobmkiopipcfcaflkknifhpj) tabs.
+- Can help you master [spreadsheets](https://community.sheetgo.com).
 - Can help you foster [sustainable consumption](https://scorai.net) around the world.
 - Can help you understand [degrowth](https://degrowthaudiobook.wordpress.com/).
+- Unterstützt dich beim Erwerb hochwertiger [Unterwäsche](https://justunderwear.de) von Qualitätsmarken (z.B. [HOM](https://hom.kaufen)).
 - Lädt dich ein zu [Gesprächen](https://philundrob.de) zwischen zwei besten Freunden.
