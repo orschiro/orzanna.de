@@ -13,7 +13,7 @@ header-includes:
     }
 </style>
 
-- Tries to embody love, patience, understanding, calm, kindness and letting go (miłość, cierpliwość, zrozumienie, spokój, życzliwość i odpuszczanie).
+- Tries to embody giving and letting go of things as two main principles of being.
 - Can help you switch quickly between your [Google Chrome](https://chrome.google.com/webstore/detail/switch-between-your-two-m/odhjcgnlbagjllfbilicalpigimhdcll) or [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/switch-between-your-two-m/ldeohgefdobmkiopipcfcaflkknifhpj) tabs.
 - Can help you master [spreadsheets](https://community.sheetgo.com).
 - Can help you foster [sustainable consumption](https://scorai.net) around the world.
