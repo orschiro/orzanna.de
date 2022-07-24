@@ -13,7 +13,7 @@ header-includes:
     }
 </style>
 
-- Tries to embody giving and letting go of things as two main principles of being.
+- Tries to embody active giving and passive letting go of things as two main principles of life.
 - Can help you switch quickly between your [Google Chrome](https://chrome.google.com/webstore/detail/switch-between-your-two-m/odhjcgnlbagjllfbilicalpigimhdcll) or [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/switch-between-your-two-m/ldeohgefdobmkiopipcfcaflkknifhpj) tabs.
 - Can help you master [spreadsheets](https://community.sheetgo.com).
 - Can help you foster [sustainable consumption](https://scorai.net) around the world.
