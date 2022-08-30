@@ -14,9 +14,13 @@ header-includes:
 </style>
 
 - Tries to embody active giving and passive letting go of things as two main principles of life.
-- Can help you switch quickly between your [Google Chrome](https://chrome.google.com/webstore/detail/switch-between-your-two-m/odhjcgnlbagjllfbilicalpigimhdcll) or [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/switch-between-your-two-m/ldeohgefdobmkiopipcfcaflkknifhpj) tabs.
-- Can help you master [spreadsheets](https://community.sheetgo.com).
-- Can help you foster [sustainable consumption](https://scorai.net) around the world.
-- Can help you understand [degrowth](https://degrowthaudiobook.wordpress.com/).
+- Helps you switch quickly between your [Google Chrome](https://chrome.google.com/webstore/detail/switch-between-your-two-m/odhjcgnlbagjllfbilicalpigimhdcll) or [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/switch-between-your-two-m/ldeohgefdobmkiopipcfcaflkknifhpj) tabs.
+- Helps you master [spreadsheets](https://community.sheetgo.com).
+- Helps you foster [sustainable consumption](https://scorai.net) around the world.
+- Helps you understand [degrowth](https://degrowthaudiobook.wordpress.com/).
+
+-----
+
 - Unterstützt dich beim Erwerb hochwertiger [Unterwäsche](https://justunderwear.de) von Qualitätsmarken (z.B. [HOM](https://hom.kaufen)).
 - Lädt dich ein zu [Gesprächen](https://philundrob.de) zwischen zwei besten Freunden.
+- Bietet dir ein klangvolles Hörerlebnis mit den Podcasts von [info3](https://info3-verlag.de/).
