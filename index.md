@@ -15,7 +15,6 @@ header-includes:
 
 - Tries to embody active giving and passive letting go of things as two main principles of life.
 - Helps you switch quickly between your [Google Chrome](https://chrome.google.com/webstore/detail/switch-between-your-two-m/odhjcgnlbagjllfbilicalpigimhdcll) or [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/switch-between-your-two-m/ldeohgefdobmkiopipcfcaflkknifhpj) tabs.
-- Helps you master [spreadsheets](https://community.sheetgo.com).
 - Helps you foster [sustainable consumption](https://scorai.net) around the world.
 - Helps you understand [degrowth](https://degrowthaudiobook.wordpress.com/).
 
