@@ -1,5 +1,6 @@
 ---
 title: "Or"
+subtitle: "gives and lets go"
 header-includes:
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -13,7 +14,6 @@ header-includes:
     }
 </style>
 
-- Tries to embody active giving and passive letting go of things as two main principles of life.
 - Helps you switch quickly between your [Google Chrome](https://chrome.google.com/webstore/detail/switch-between-your-two-m/odhjcgnlbagjllfbilicalpigimhdcll) or [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/switch-between-your-two-m/ldeohgefdobmkiopipcfcaflkknifhpj) tabs.
 - Helps you foster [sustainable consumption](https://scorai.net) around the world.
 - Helps you understand [degrowth](https://degrowthaudiobook.wordpress.com/).
