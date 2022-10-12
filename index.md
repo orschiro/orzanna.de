@@ -22,4 +22,4 @@ header-includes:
 
 - Unterstützt dich beim Erwerb hochwertiger [Unterwäsche](https://justunderwear.de) von Qualitätsmarken (z.B. [HOM](https://hom.kaufen)).
 - Lädt dich ein zu [Gesprächen](https://philundrob.de) zwischen zwei besten Freunden.
-- Bietet dir ein klangvolles Hörerlebnis mit den Podcasts von [info3](https://info3-verlag.de/) ([Das neue Heft](https://podcasts.google.com/feed/aHR0cHM6Ly9pbmZvMy12ZXJsYWcuZGUvZmVlZC9wb2RjYXN0L3plaXRzY2hyaWZ0LWluZm8z?sa=X&ved=0CAMQ4aUDahcKEwjwuOOxk9X6AhUAAAAAHQAAAAAQAQ&hl=en-DE), Auf einen Kaffee).
+- Bietet dir ein klangvolles Hörerlebnis mit den Podcasts von [info3](https://info3-verlag.de/) (siehe [Das neue Heft](https://podcasts.google.com/feed/aHR0cHM6Ly9pbmZvMy12ZXJsYWcuZGUvZmVlZC9wb2RjYXN0L3plaXRzY2hyaWZ0LWluZm8z?sa=X&ved=0CAMQ4aUDahcKEwjwuOOxk9X6AhUAAAAAHQAAAAAQAQ&hl=en-DE), Auf einen Kaffee und Große Worte).
