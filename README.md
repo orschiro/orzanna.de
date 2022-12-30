@@ -1,3 +1,1 @@
-# orzanna.de
-
-This repo is published at orzanna.de. Created using Visual Studio Code (Markdown to HTML converter) and published by netlify automatically.
+View live at [https://orzanna.de](https://orzanna.de).
